@@ -1,0 +1,1678 @@
+{
+    "models": [
+        {
+            "modelName": "Arabic-English base",
+            "shortName": "ar-en-base",
+            "type": "base",
+            "src": "Arabic",
+            "trg": "English",
+            "srcTags": {
+                "ar": "Arabic"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "56cfa64d52dc81b9699c95adf920f611dee26495f0bde2446188e870f0c6bdae",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ar-en.tar.gz",
+            "name": "Arabic-English base",
+            "code": "ar-en-base"
+        },
+        {
+            "modelName": "Azerbaijani-English tiny",
+            "shortName": "az-en-tiny",
+            "type": "tiny",
+            "src": "Azerbaijani",
+            "trg": "English",
+            "srcTags": {
+                "az": "Azerbaijani"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "c0cd5e7192d7351df5de01ba6a47ef196947ea391b57257eeb8bc9f421992981",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-az-en.tar.gz",
+            "name": "Azerbaijani-English tiny",
+            "code": "az-en-tiny"
+        },
+        {
+            "modelName": "Belarusian-English tiny",
+            "shortName": "be-en-tiny",
+            "type": "tiny",
+            "src": "Belarusian",
+            "trg": "English",
+            "srcTags": {
+                "be": "Belarusian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "ea731b7dce32e62ac97f9aa008c705e3b1cbf78147d29891a88b9a0bb1186f94",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-be-en.tar.gz",
+            "name": "Belarusian-English tiny",
+            "code": "be-en-tiny"
+        },
+        {
+            "modelName": "Bulgarian-English base-memory",
+            "shortName": "bg-en-base-memory",
+            "type": "base-memory",
+            "src": "Bulgarian",
+            "trg": "English",
+            "srcTags": {
+                "bg": "Bulgarian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e5c0842f6485be23f4618aee2e92e3513e13d2c7bc3177e0c5d067c5abec4fcb",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-bg-en.tar.gz",
+            "name": "Bulgarian-English base-memory",
+            "code": "bg-en-base-memory"
+        },
+        {
+            "modelName": "Bengali-English tiny",
+            "shortName": "bn-en-tiny",
+            "type": "tiny",
+            "src": "Bengali",
+            "trg": "English",
+            "srcTags": {
+                "bn": "Bengali"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "9f610661d5829aaf562c86bcd2ff6aaf3e0b1aa974f6c57aab86afefd4ffc16c",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-bn-en.tar.gz",
+            "name": "Bengali-English tiny",
+            "code": "bn-en-tiny"
+        },
+        {
+            "modelName": "Bosnian-English tiny",
+            "shortName": "bs-en-tiny",
+            "type": "tiny",
+            "src": "Bosnian",
+            "trg": "English",
+            "srcTags": {
+                "bs": "Bosnian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "8002e2c7f94764eda6365518dceb9d12a3b0666d624283cec36d71100b4725e0",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-bs-en.tar.gz",
+            "name": "Bosnian-English tiny",
+            "code": "bs-en-tiny"
+        },
+        {
+            "modelName": "Catalan-English base-memory",
+            "shortName": "ca-en-base-memory",
+            "type": "base-memory",
+            "src": "Catalan",
+            "trg": "English",
+            "srcTags": {
+                "ca": "Catalan"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "37ee49f95a8f5414327eaaed97e3e7ca495515fa38e25fad1e41d2cdcd2a75d9",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ca-en.tar.gz",
+            "name": "Catalan-English base-memory",
+            "code": "ca-en-base-memory"
+        },
+        {
+            "modelName": "Czech-English base-memory",
+            "shortName": "cs-en-base-memory",
+            "type": "base-memory",
+            "src": "Czech",
+            "trg": "English",
+            "srcTags": {
+                "cs": "Czech"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "045c6d557af40e9c34c2d3c7d47e61c9632b5cdb62f098781c8f4d14367368f6",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-cs-en.tar.gz",
+            "name": "Czech-English base-memory",
+            "code": "cs-en-base-memory"
+        },
+        {
+            "modelName": "Danish-English tiny",
+            "shortName": "da-en-tiny",
+            "type": "tiny",
+            "src": "Danish",
+            "trg": "English",
+            "srcTags": {
+                "da": "Danish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "bcfbb75a3376c9ba87c758e3148a3b8516c43d4ebb00d62af3ccd791ca30fb35",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-da-en.tar.gz",
+            "name": "Danish-English tiny",
+            "code": "da-en-tiny"
+        },
+        {
+            "modelName": "German-English base",
+            "shortName": "de-en-base",
+            "type": "base",
+            "src": "German",
+            "trg": "English",
+            "srcTags": {
+                "de": "German"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "06af22f8ebd9b7454d96df458a9d2bfd980e5abc609cd05a4e01158f152eb548",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-de-en.tar.gz",
+            "name": "German-English base",
+            "code": "de-en-base"
+        },
+        {
+            "modelName": "Greek-English tiny",
+            "shortName": "el-en-tiny",
+            "type": "tiny",
+            "src": "Greek",
+            "trg": "English",
+            "srcTags": {
+                "el": "Greek"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "290cd300c5f19ea3f18cdf2d3bbe280575326f6f58c6afb74bc3abad7f01c0a8",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-el-en.tar.gz",
+            "name": "Greek-English tiny",
+            "code": "el-en-tiny"
+        },
+        {
+            "modelName": "English-Arabic base",
+            "shortName": "en-ar-base",
+            "type": "base",
+            "src": "English",
+            "trg": "Arabic",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ar",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "6b40a168f526b0fdbcdf0bff65c73871dc9c7e529d1d6a6eb16e26ee3e2d9cfb",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ar.tar.gz",
+            "name": "English-Arabic base",
+            "code": "en-ar-base"
+        },
+        {
+            "modelName": "English-Azerbaijani tiny",
+            "shortName": "en-az-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Azerbaijani",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "az",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e82124de3c1f831851bd648cf3e3ce9cfca22c04fdc37dd0438566ffdafffd69",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-az.tar.gz",
+            "name": "English-Azerbaijani tiny",
+            "code": "en-az-tiny"
+        },
+        {
+            "modelName": "English-Bulgarian tiny",
+            "shortName": "en-bg-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Bulgarian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "bg",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "1a3b6fa386bfb49cfd83fb9feaccf1029488c867373b94c5d3f14261f63720aa",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-bg.tar.gz",
+            "name": "English-Bulgarian tiny",
+            "code": "en-bg-tiny"
+        },
+        {
+            "modelName": "English-Bengali tiny",
+            "shortName": "en-bn-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Bengali",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "bn",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "1cf83ab8fcaece9ed3cc107d37edc30dafd316934332d7e8122da49669072dbe",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-bn.tar.gz",
+            "name": "English-Bengali tiny",
+            "code": "en-bn-tiny"
+        },
+        {
+            "modelName": "English-Catalan base-memory",
+            "shortName": "en-ca-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Catalan",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ca",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e2adb3a9679b11d09a9dcd849da55666a6c4dc0408d578c01c196291cbf69ef8",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ca.tar.gz",
+            "name": "English-Catalan base-memory",
+            "code": "en-ca-base-memory"
+        },
+        {
+            "modelName": "English-Czech base",
+            "shortName": "en-cs-base",
+            "type": "base",
+            "src": "English",
+            "trg": "Czech",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "cs",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "00688f66e6d74f10c0897ef8f96a624e244ffff007162b0ee382e2ff79673ae3",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-cs.tar.gz",
+            "name": "English-Czech base",
+            "code": "en-cs-base"
+        },
+        {
+            "modelName": "English-Danish tiny",
+            "shortName": "en-da-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Danish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "da",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "f79fd1960d7a9eeb2daa48a36f37ed8e592996bedcbf32033a9f4b2db8934a57",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-da.tar.gz",
+            "name": "English-Danish tiny",
+            "code": "en-da-tiny"
+        },
+        {
+            "modelName": "English-German tiny",
+            "shortName": "en-de-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "German",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "de",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "191c3035494abaee4d429dab7df7e75803474d505009049a3f7590a747f0acab",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-de.tar.gz",
+            "name": "English-German tiny",
+            "code": "en-de-tiny"
+        },
+        {
+            "modelName": "English-Greek tiny",
+            "shortName": "en-el-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Greek",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "el",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "79110c3a2f399c6b096a8c671932d749d556b084fcc7a02627905895f39ff387",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-el.tar.gz",
+            "name": "English-Greek tiny",
+            "code": "en-el-tiny"
+        },
+        {
+            "modelName": "English-Spanish tiny",
+            "shortName": "en-es-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Spanish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "es",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "96d697d7544c61455680398b49f80e9a5138fe009e5aed0fcac1cb5eb14d743e",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-es.tar.gz",
+            "name": "English-Spanish tiny",
+            "code": "en-es-tiny"
+        },
+        {
+            "modelName": "English-Estonian tiny",
+            "shortName": "en-et-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Estonian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "et",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "a12d72db6283110161a106035d946f66bd9430076bb82a552b015813327919a0",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-et.tar.gz",
+            "name": "English-Estonian tiny",
+            "code": "en-et-tiny"
+        },
+        {
+            "modelName": "English-Persian tiny",
+            "shortName": "en-fa-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Persian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "fa",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "9eeea5ed5c17880c77e9d00f4af8d4c6c6866a448487a09d91e86ea49303ec61",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-fa.tar.gz",
+            "name": "English-Persian tiny",
+            "code": "en-fa-tiny"
+        },
+        {
+            "modelName": "English-Finnish tiny",
+            "shortName": "en-fi-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Finnish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "fi",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "2bbdf360e82b217b1cf4c9b6e4e1eb1fed9f6bfd157878c88930277ffc48a677",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-fi.tar.gz",
+            "name": "English-Finnish tiny",
+            "code": "en-fi-tiny"
+        },
+        {
+            "modelName": "English-French tiny",
+            "shortName": "en-fr-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "French",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "fr",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "720dd9e5dcb2c6d16ad907828ff4ab5d0c6b55583677d8cfbec0f52b9970376c",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-fr.tar.gz",
+            "name": "English-French tiny",
+            "code": "en-fr-tiny"
+        },
+        {
+            "modelName": "English-Gujarati tiny",
+            "shortName": "en-gu-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Gujarati",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "gu",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "a2a28f69acb0e0a2a72cfec54f75c5d6eb428342ee14d6b38739f28097a8171b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-gu.tar.gz",
+            "name": "English-Gujarati tiny",
+            "code": "en-gu-tiny"
+        },
+        {
+            "modelName": "English-Hebrew tiny",
+            "shortName": "en-he-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Hebrew",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "he",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "753321ceb5c7d1546b37ae8dea046a7f0aba9749168dd1c466327bb554a36267",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-he.tar.gz",
+            "name": "English-Hebrew tiny",
+            "code": "en-he-tiny"
+        },
+        {
+            "modelName": "English-Hindi tiny",
+            "shortName": "en-hi-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Hindi",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "hi",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "b9eb5c411788d3b96f16bf91ccf7ac8a419964434efcb0a28332c5534c7671f9",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-hi.tar.gz",
+            "name": "English-Hindi tiny",
+            "code": "en-hi-tiny"
+        },
+        {
+            "modelName": "English-Croatian tiny",
+            "shortName": "en-hr-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Croatian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "hr",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "89bddd5e9fac1d22b23be83164eafe784f00e062569574e068cd5aa2c799747f",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-hr.tar.gz",
+            "name": "English-Croatian tiny",
+            "code": "en-hr-tiny"
+        },
+        {
+            "modelName": "English-Hungarian base-memory",
+            "shortName": "en-hu-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Hungarian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "hu",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "1ae8cf49d5fec9c99f2565edd787e5274cc813eca7ebb0fa71b8ee214649f9d2",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-hu.tar.gz",
+            "name": "English-Hungarian base-memory",
+            "code": "en-hu-base-memory"
+        },
+        {
+            "modelName": "English-Indonesian tiny",
+            "shortName": "en-id-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Indonesian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "id",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "2626a0f0196d01f51882cb1ef26bccafe8c0aab8a576a6a39c08f4c63e9d502f",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-id.tar.gz",
+            "name": "English-Indonesian tiny",
+            "code": "en-id-tiny"
+        },
+        {
+            "modelName": "English-Icelandic base-memory",
+            "shortName": "en-is-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Icelandic",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "is",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "01492503ccd1ece0bba0e99f180f3a8fc841e214644d055dd06c1cec66ea6e01",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-is.tar.gz",
+            "name": "English-Icelandic base-memory",
+            "code": "en-is-base-memory"
+        },
+        {
+            "modelName": "English-Italian tiny",
+            "shortName": "en-it-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Italian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "it",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "79e50a1c86394c3e2a5bd1932a1d8c094e4efa7d3fc3c34f8bbc043e59fb4d78",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-it.tar.gz",
+            "name": "English-Italian tiny",
+            "code": "en-it-tiny"
+        },
+        {
+            "modelName": "English-Japanese base",
+            "shortName": "en-ja-base",
+            "type": "base",
+            "src": "English",
+            "trg": "Japanese",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ja",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "2103214bf10def656fe481f42aada97eb992bd4c0029bf75b9e78c159d15766a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ja.tar.gz",
+            "name": "English-Japanese base",
+            "code": "en-ja-base"
+        },
+        {
+            "modelName": "English-Kannada tiny",
+            "shortName": "en-kn-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Kannada",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "kn",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "5dd5fde118c7fb3225b97738ae932187144bc10c1ef9f4e03d9f8e16147bda59",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-kn.tar.gz",
+            "name": "English-Kannada tiny",
+            "code": "en-kn-tiny"
+        },
+        {
+            "modelName": "English-Korean base",
+            "shortName": "en-ko-base",
+            "type": "base",
+            "src": "English",
+            "trg": "Korean",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ko",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "39dbf689922b37e0b07081df5eafa9a6c25adce0747fd8902e0b07543beeaaa1",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ko.tar.gz",
+            "name": "English-Korean base",
+            "code": "en-ko-base"
+        },
+        {
+            "modelName": "English-Lithuanian base-memory",
+            "shortName": "en-lt-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Lithuanian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "lt",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "a55bcc4e6cd2ae58457bf4bc130ba7c9d6b57a353b9645fbcfb2be203eb15703",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-lt.tar.gz",
+            "name": "English-Lithuanian base-memory",
+            "code": "en-lt-base-memory"
+        },
+        {
+            "modelName": "English-Latvian base-memory",
+            "shortName": "en-lv-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Latvian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "lv",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "c7b7ffd3c71f3bba1ada03022ff68902af5b0d99fbaa8700d2e83a79b9cc8b1b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-lv.tar.gz",
+            "name": "English-Latvian base-memory",
+            "code": "en-lv-base-memory"
+        },
+        {
+            "modelName": "English-Malayalam tiny",
+            "shortName": "en-ml-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Malayalam",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ml",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "97c1820b27fd709e8349b39c421e69ea32eddd8c1602acbfff1c71dbce8884f3",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ml.tar.gz",
+            "name": "English-Malayalam tiny",
+            "code": "en-ml-tiny"
+        },
+        {
+            "modelName": "English-Malay tiny",
+            "shortName": "en-ms-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Malay",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ms",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "3791de1f4fa3a814126fe1f5b49ff10bcb73cc938df4ea2967129bb3a229d553",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ms.tar.gz",
+            "name": "English-Malay tiny",
+            "code": "en-ms-tiny"
+        },
+        {
+            "modelName": "English-Dutch tiny",
+            "shortName": "en-nl-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Dutch",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "nl",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "3dd385676ea195bbdedabc3e63fc93ff832b82e06b95196e7085c19ff40757b6",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-nl.tar.gz",
+            "name": "English-Dutch tiny",
+            "code": "en-nl-tiny"
+        },
+        {
+            "modelName": "English-Polish tiny",
+            "shortName": "en-pl-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Polish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "pl",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "182c989da73a049dd35d23e013a76994148d57458451a1075b65e1d102fdd66e",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-pl.tar.gz",
+            "name": "English-Polish tiny",
+            "code": "en-pl-tiny"
+        },
+        {
+            "modelName": "English-Portuguese tiny",
+            "shortName": "en-pt-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Portuguese",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "pt",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "2361870ea5507be5a41239ff0427fd05a6fe664fc58a50aa12fa0f01bed11a80",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-pt.tar.gz",
+            "name": "English-Portuguese tiny",
+            "code": "en-pt-tiny"
+        },
+        {
+            "modelName": "English-Romanian tiny",
+            "shortName": "en-ro-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Romanian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ro",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "39e4ccba823a3fdc92f9f83ac19f45e8918a397fd189c6e13a6776054c35ae26",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ro.tar.gz",
+            "name": "English-Romanian tiny",
+            "code": "en-ro-tiny"
+        },
+        {
+            "modelName": "English-Russian base",
+            "shortName": "en-ru-base",
+            "type": "base",
+            "src": "English",
+            "trg": "Russian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ru",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "29c4276c985567f51e35556269b5acf3a515229a530f32f772fec25b59a465dd",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ru.tar.gz",
+            "name": "English-Russian base",
+            "code": "en-ru-base"
+        },
+        {
+            "modelName": "English-Slovak base-memory",
+            "shortName": "en-sk-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Slovak",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "sk",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "d1d1a98157c09c6eaa6c7ab93ffb2e826332b534d46b752ef28066fb59700ae2",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-sk.tar.gz",
+            "name": "English-Slovak base-memory",
+            "code": "en-sk-base-memory"
+        },
+        {
+            "modelName": "English-Slovenian base-memory",
+            "shortName": "en-sl-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Slovenian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "sl",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "407da709fc9c9fe41c41592d521db5b3b562431f664dd7602cb18664a5747c67",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-sl.tar.gz",
+            "name": "English-Slovenian base-memory",
+            "code": "en-sl-base-memory"
+        },
+        {
+            "modelName": "English-Albanian tiny",
+            "shortName": "en-sq-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Albanian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "sq",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "edafad385c366d6b505d9199b92d4a892423ad1b4d58d35502fc70b85d28d737",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-sq.tar.gz",
+            "name": "English-Albanian tiny",
+            "code": "en-sq-tiny"
+        },
+        {
+            "modelName": "English-Swedish tiny",
+            "shortName": "en-sv-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Swedish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "sv",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "7b399c033e8c587926d6a18f0a067f7bdea9c454a945b8744364c2d451ff716a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-sv.tar.gz",
+            "name": "English-Swedish tiny",
+            "code": "en-sv-tiny"
+        },
+        {
+            "modelName": "English-Tamil tiny",
+            "shortName": "en-ta-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Tamil",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "ta",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "0de26613d27ab567bb7a5d072d883aec3436b14ab3052107851edd8cdb3776cf",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-ta.tar.gz",
+            "name": "English-Tamil tiny",
+            "code": "en-ta-tiny"
+        },
+        {
+            "modelName": "English-Telugu tiny",
+            "shortName": "en-te-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Telugu",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "te",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "7d1c8da645894fdc2ef948e17b3fba7b6c8d1647c4bac2d40929c8e8ecc0910b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-te.tar.gz",
+            "name": "English-Telugu tiny",
+            "code": "en-te-tiny"
+        },
+        {
+            "modelName": "English-Turkish tiny",
+            "shortName": "en-tr-tiny",
+            "type": "tiny",
+            "src": "English",
+            "trg": "Turkish",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "tr",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "6b10008588addd09cfc2799b5c692a6eeeb323048811de47d0a5e18d36486e75",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-tr.tar.gz",
+            "name": "English-Turkish tiny",
+            "code": "en-tr-tiny"
+        },
+        {
+            "modelName": "English-Ukrainian base-memory",
+            "shortName": "en-uk-base-memory",
+            "type": "base-memory",
+            "src": "English",
+            "trg": "Ukrainian",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "uk",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "72eb4492e5b8b3c87fbf64cc6e6f504789d46534ab902b67c7ab83288dd39680",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-uk.tar.gz",
+            "name": "English-Ukrainian base-memory",
+            "code": "en-uk-base-memory"
+        },
+        {
+            "modelName": "English-ZH-HANS base",
+            "shortName": "en-zh-Hans-base",
+            "type": "base",
+            "src": "English",
+            "trg": "ZH-HANS",
+            "srcTags": {
+                "en": "English"
+            },
+            "trgTag": "zh-Hans",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "99678df645641e3d25436e50be83d19a11126c45d678b4b1a6f924ebd9c24668",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-en-zh-Hans.tar.gz",
+            "name": "English-ZH-HANS base",
+            "code": "en-zh-Hans-base"
+        },
+        {
+            "modelName": "Spanish-English base-memory",
+            "shortName": "es-en-base-memory",
+            "type": "base-memory",
+            "src": "Spanish",
+            "trg": "English",
+            "srcTags": {
+                "es": "Spanish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "042a1c7dc228a31d45aededcd8d675e5ffda07cbcfccd7bcfd135e05b9946845",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-es-en.tar.gz",
+            "name": "Spanish-English base-memory",
+            "code": "es-en-base-memory"
+        },
+        {
+            "modelName": "Estonian-English base-memory",
+            "shortName": "et-en-base-memory",
+            "type": "base-memory",
+            "src": "Estonian",
+            "trg": "English",
+            "srcTags": {
+                "et": "Estonian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e409987fed5cf22c2ed6538502a22561202502f4516a635ab5a6dc26b190583a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-et-en.tar.gz",
+            "name": "Estonian-English base-memory",
+            "code": "et-en-base-memory"
+        },
+        {
+            "modelName": "Persian-English tiny",
+            "shortName": "fa-en-tiny",
+            "type": "tiny",
+            "src": "Persian",
+            "trg": "English",
+            "srcTags": {
+                "fa": "Persian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "9536527e725cc7d7e4e3a222d063e1f4432907c9aa0de2ab288fd5d024c0ddb6",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-fa-en.tar.gz",
+            "name": "Persian-English tiny",
+            "code": "fa-en-tiny"
+        },
+        {
+            "modelName": "Finnish-English base-memory",
+            "shortName": "fi-en-base-memory",
+            "type": "base-memory",
+            "src": "Finnish",
+            "trg": "English",
+            "srcTags": {
+                "fi": "Finnish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "8baf80f43930f69fa02c4b61f2e779ee850ff93dc4a16fad43dbf1f7cc37ae3b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-fi-en.tar.gz",
+            "name": "Finnish-English base-memory",
+            "code": "fi-en-base-memory"
+        },
+        {
+            "modelName": "French-English base-memory",
+            "shortName": "fr-en-base-memory",
+            "type": "base-memory",
+            "src": "French",
+            "trg": "English",
+            "srcTags": {
+                "fr": "French"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "0a34e4f88bb704cf6d4fef346c5400faf8da7adcf674a05e19e3b33a15432f70",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-fr-en.tar.gz",
+            "name": "French-English base-memory",
+            "code": "fr-en-base-memory"
+        },
+        {
+            "modelName": "Gujarati-English tiny",
+            "shortName": "gu-en-tiny",
+            "type": "tiny",
+            "src": "Gujarati",
+            "trg": "English",
+            "srcTags": {
+                "gu": "Gujarati"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "6d96e7743dbc0eff4cf46fc4016187189ce22c6edd9917f7323943ed8efe6a14",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-gu-en.tar.gz",
+            "name": "Gujarati-English tiny",
+            "code": "gu-en-tiny"
+        },
+        {
+            "modelName": "Hebrew-English tiny",
+            "shortName": "he-en-tiny",
+            "type": "tiny",
+            "src": "Hebrew",
+            "trg": "English",
+            "srcTags": {
+                "he": "Hebrew"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "4e0e4c75c5f624a3a1476d4664b4111fd7e767e8f3c90f321fdda01cb8a58e76",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-he-en.tar.gz",
+            "name": "Hebrew-English tiny",
+            "code": "he-en-tiny"
+        },
+        {
+            "modelName": "Hindi-English tiny",
+            "shortName": "hi-en-tiny",
+            "type": "tiny",
+            "src": "Hindi",
+            "trg": "English",
+            "srcTags": {
+                "hi": "Hindi"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "795a40915cde83610f568ce68ff1b456ced881ca27e6f2cc64ec51f1572fa7cb",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-hi-en.tar.gz",
+            "name": "Hindi-English tiny",
+            "code": "hi-en-tiny"
+        },
+        {
+            "modelName": "Croatian-English tiny",
+            "shortName": "hr-en-tiny",
+            "type": "tiny",
+            "src": "Croatian",
+            "trg": "English",
+            "srcTags": {
+                "hr": "Croatian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "7361b4451bf44fb8208d591eec774ba4f4bd1f0c534aa0a7523defb856160fd1",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-hr-en.tar.gz",
+            "name": "Croatian-English tiny",
+            "code": "hr-en-tiny"
+        },
+        {
+            "modelName": "Hungarian-English tiny",
+            "shortName": "hu-en-tiny",
+            "type": "tiny",
+            "src": "Hungarian",
+            "trg": "English",
+            "srcTags": {
+                "hu": "Hungarian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "3af37be69eba4652f160118982846f0894f77d3c37e0edd63cfee862f789a91e",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-hu-en.tar.gz",
+            "name": "Hungarian-English tiny",
+            "code": "hu-en-tiny"
+        },
+        {
+            "modelName": "Indonesian-English tiny",
+            "shortName": "id-en-tiny",
+            "type": "tiny",
+            "src": "Indonesian",
+            "trg": "English",
+            "srcTags": {
+                "id": "Indonesian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "1b3c1f5f725c917dde0ae60d793a02a3aaf440db19a3b7d179749f8f566e16de",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-id-en.tar.gz",
+            "name": "Indonesian-English tiny",
+            "code": "id-en-tiny"
+        },
+        {
+            "modelName": "Icelandic-English base-memory",
+            "shortName": "is-en-base-memory",
+            "type": "base-memory",
+            "src": "Icelandic",
+            "trg": "English",
+            "srcTags": {
+                "is": "Icelandic"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "671abe16fcc76d49db9fd17d7ae5b0de97b9e35ad117da221dfad2d139790dc1",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-is-en.tar.gz",
+            "name": "Icelandic-English base-memory",
+            "code": "is-en-base-memory"
+        },
+        {
+            "modelName": "Italian-English base-memory",
+            "shortName": "it-en-base-memory",
+            "type": "base-memory",
+            "src": "Italian",
+            "trg": "English",
+            "srcTags": {
+                "it": "Italian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "8cc867cf167b3a09ec90c2f8bf5467f249ceca96b310c0b21e89aef2a37e9347",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-it-en.tar.gz",
+            "name": "Italian-English base-memory",
+            "code": "it-en-base-memory"
+        },
+        {
+            "modelName": "Japanese-English base",
+            "shortName": "ja-en-base",
+            "type": "base",
+            "src": "Japanese",
+            "trg": "English",
+            "srcTags": {
+                "ja": "Japanese"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "d56bc28745bcd77d3596a4c1e5513859be6d5e200f9e01c7688809e864dc5937",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ja-en.tar.gz",
+            "name": "Japanese-English base",
+            "code": "ja-en-base"
+        },
+        {
+            "modelName": "Kannada-English tiny",
+            "shortName": "kn-en-tiny",
+            "type": "tiny",
+            "src": "Kannada",
+            "trg": "English",
+            "srcTags": {
+                "kn": "Kannada"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "d19c999a08a870f248330aaa7e2ce9669293bef43621e4e187d87495cb380fff",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-kn-en.tar.gz",
+            "name": "Kannada-English tiny",
+            "code": "kn-en-tiny"
+        },
+        {
+            "modelName": "Korean-English base",
+            "shortName": "ko-en-base",
+            "type": "base",
+            "src": "Korean",
+            "trg": "English",
+            "srcTags": {
+                "ko": "Korean"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "b4bfc9c6fe02d460609b747ccd4630142ca637d71c754cbe4835ccdf594e0ded",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ko-en.tar.gz",
+            "name": "Korean-English base",
+            "code": "ko-en-base"
+        },
+        {
+            "modelName": "Lithuanian-English tiny",
+            "shortName": "lt-en-tiny",
+            "type": "tiny",
+            "src": "Lithuanian",
+            "trg": "English",
+            "srcTags": {
+                "lt": "Lithuanian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "c55f14bddb774390f93ea4893413d5dc0afd6482732ec4bee564bb58d845b543",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-lt-en.tar.gz",
+            "name": "Lithuanian-English tiny",
+            "code": "lt-en-tiny"
+        },
+        {
+            "modelName": "Latvian-English tiny",
+            "shortName": "lv-en-tiny",
+            "type": "tiny",
+            "src": "Latvian",
+            "trg": "English",
+            "srcTags": {
+                "lv": "Latvian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "f3e814e7cbd92ed63266776dc7ed00fc7ddcf616c99f916027a1b8e47a05454c",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-lv-en.tar.gz",
+            "name": "Latvian-English tiny",
+            "code": "lv-en-tiny"
+        },
+        {
+            "modelName": "Malayalam-English tiny",
+            "shortName": "ml-en-tiny",
+            "type": "tiny",
+            "src": "Malayalam",
+            "trg": "English",
+            "srcTags": {
+                "ml": "Malayalam"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "82902152bba72eb15036183efa74c741b03d441b005419bac81c3082515a7559",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ml-en.tar.gz",
+            "name": "Malayalam-English tiny",
+            "code": "ml-en-tiny"
+        },
+        {
+            "modelName": "Malay-English tiny",
+            "shortName": "ms-en-tiny",
+            "type": "tiny",
+            "src": "Malay",
+            "trg": "English",
+            "srcTags": {
+                "ms": "Malay"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "3e07b94eaf45d6d363e34c43f7d6e478b42fb8eacdb707bf125f4e84636eaeca",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ms-en.tar.gz",
+            "name": "Malay-English tiny",
+            "code": "ms-en-tiny"
+        },
+        {
+            "modelName": "Maltese-English tiny",
+            "shortName": "mt-en-tiny",
+            "type": "tiny",
+            "src": "Maltese",
+            "trg": "English",
+            "srcTags": {
+                "mt": "Maltese"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "9a941538a74d734520b34fb15428afaa2f1cdbf57b823e98796900a72f964c06",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-mt-en.tar.gz",
+            "name": "Maltese-English tiny",
+            "code": "mt-en-tiny"
+        },
+        {
+            "modelName": "Norwegian Bokmål-English tiny",
+            "shortName": "nb-en-tiny",
+            "type": "tiny",
+            "src": "Norwegian Bokmål",
+            "trg": "English",
+            "srcTags": {
+                "nb": "Norwegian Bokmål"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "96339359dcd9b6e189832e562b227c331f612602e4b1a4d12f001f21a1c72253",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-nb-en.tar.gz",
+            "name": "Norwegian Bokmål-English tiny",
+            "code": "nb-en-tiny"
+        },
+        {
+            "modelName": "Dutch-English base-memory",
+            "shortName": "nl-en-base-memory",
+            "type": "base-memory",
+            "src": "Dutch",
+            "trg": "English",
+            "srcTags": {
+                "nl": "Dutch"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "29b94914a8e0b492a7e2b9d04cd9da936aa6a774e073948f8c8ae883a8660981",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-nl-en.tar.gz",
+            "name": "Dutch-English base-memory",
+            "code": "nl-en-base-memory"
+        },
+        {
+            "modelName": "Norwegian Nynorsk-English tiny",
+            "shortName": "nn-en-tiny",
+            "type": "tiny",
+            "src": "Norwegian Nynorsk",
+            "trg": "English",
+            "srcTags": {
+                "nn": "Norwegian Nynorsk"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e8a98c5eb61d4a9f872a00023ddce99e09d1da6050523d0c7d09e359029c950b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-nn-en.tar.gz",
+            "name": "Norwegian Nynorsk-English tiny",
+            "code": "nn-en-tiny"
+        },
+        {
+            "modelName": "Polish-English tiny",
+            "shortName": "pl-en-tiny",
+            "type": "tiny",
+            "src": "Polish",
+            "trg": "English",
+            "srcTags": {
+                "pl": "Polish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "ab5d0da0e7fa1943fc0dcc36cc20184b7f7e04a8357ed96010e594670f178f38",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-pl-en.tar.gz",
+            "name": "Polish-English tiny",
+            "code": "pl-en-tiny"
+        },
+        {
+            "modelName": "Portuguese-English base-memory",
+            "shortName": "pt-en-base-memory",
+            "type": "base-memory",
+            "src": "Portuguese",
+            "trg": "English",
+            "srcTags": {
+                "pt": "Portuguese"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "edb20f5a86a5009eaebfef35734c8e4911b55486ef147af354652d5d95b6987b",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-pt-en.tar.gz",
+            "name": "Portuguese-English base-memory",
+            "code": "pt-en-base-memory"
+        },
+        {
+            "modelName": "Romanian-English tiny",
+            "shortName": "ro-en-tiny",
+            "type": "tiny",
+            "src": "Romanian",
+            "trg": "English",
+            "srcTags": {
+                "ro": "Romanian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "4dd8da1e5c577ac395aa14e2577ae2e574dfe1e7e580aaef0da702c5fcb871b5",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ro-en.tar.gz",
+            "name": "Romanian-English tiny",
+            "code": "ro-en-tiny"
+        },
+        {
+            "modelName": "Russian-English tiny",
+            "shortName": "ru-en-tiny",
+            "type": "tiny",
+            "src": "Russian",
+            "trg": "English",
+            "srcTags": {
+                "ru": "Russian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "45c893d7908bf4c4e693cfbebf49de9d93debee7763f93518f4a5a8a89f1a37f",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ru-en.tar.gz",
+            "name": "Russian-English tiny",
+            "code": "ru-en-tiny"
+        },
+        {
+            "modelName": "Slovak-English tiny",
+            "shortName": "sk-en-tiny",
+            "type": "tiny",
+            "src": "Slovak",
+            "trg": "English",
+            "srcTags": {
+                "sk": "Slovak"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "8f4afea41195b1094d4c95393bab9990f354dbdb77cbdcb6c62d4f6f2e6c07ec",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-sk-en.tar.gz",
+            "name": "Slovak-English tiny",
+            "code": "sk-en-tiny"
+        },
+        {
+            "modelName": "Slovenian-English base-memory",
+            "shortName": "sl-en-base-memory",
+            "type": "base-memory",
+            "src": "Slovenian",
+            "trg": "English",
+            "srcTags": {
+                "sl": "Slovenian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "c399bb3e25507be1a743def9b6d5205218e300f2a46ff26424229df21607383c",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-sl-en.tar.gz",
+            "name": "Slovenian-English base-memory",
+            "code": "sl-en-base-memory"
+        },
+        {
+            "modelName": "Albanian-English tiny",
+            "shortName": "sq-en-tiny",
+            "type": "tiny",
+            "src": "Albanian",
+            "trg": "English",
+            "srcTags": {
+                "sq": "Albanian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "e0d32631273e9defb14381116c22785c416b786f2f91761e6e7e5345de88f01c",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-sq-en.tar.gz",
+            "name": "Albanian-English tiny",
+            "code": "sq-en-tiny"
+        },
+        {
+            "modelName": "Serbian-English tiny",
+            "shortName": "sr-en-tiny",
+            "type": "tiny",
+            "src": "Serbian",
+            "trg": "English",
+            "srcTags": {
+                "sr": "Serbian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "bddcc8959cadb6ec2879ef84f3a98cfe201ece72fae09d29c21f8b5e3973983a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-sr-en.tar.gz",
+            "name": "Serbian-English tiny",
+            "code": "sr-en-tiny"
+        },
+        {
+            "modelName": "Swedish-English tiny",
+            "shortName": "sv-en-tiny",
+            "type": "tiny",
+            "src": "Swedish",
+            "trg": "English",
+            "srcTags": {
+                "sv": "Swedish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "c03ee48b94032f298397de9e3aa1cb4b44f90878d4c372b0ae4c73228a567c51",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-sv-en.tar.gz",
+            "name": "Swedish-English tiny",
+            "code": "sv-en-tiny"
+        },
+        {
+            "modelName": "Tamil-English tiny",
+            "shortName": "ta-en-tiny",
+            "type": "tiny",
+            "src": "Tamil",
+            "trg": "English",
+            "srcTags": {
+                "ta": "Tamil"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "12a3a6f434f5ca7bfecca627878a5dfbc6eccab6e86f79a57437df29c84b90bc",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-ta-en.tar.gz",
+            "name": "Tamil-English tiny",
+            "code": "ta-en-tiny"
+        },
+        {
+            "modelName": "Telugu-English tiny",
+            "shortName": "te-en-tiny",
+            "type": "tiny",
+            "src": "Telugu",
+            "trg": "English",
+            "srcTags": {
+                "te": "Telugu"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "66f017e65b2d44ae5352bfc3ddd8d95ac9625873b441b9c3d6d1ddcd92d4a848",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-te-en.tar.gz",
+            "name": "Telugu-English tiny",
+            "code": "te-en-tiny"
+        },
+        {
+            "modelName": "Turkish-English tiny",
+            "shortName": "tr-en-tiny",
+            "type": "tiny",
+            "src": "Turkish",
+            "trg": "English",
+            "srcTags": {
+                "tr": "Turkish"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "00c264fbd76ebe9bb2098173fe8c7a2f7e5c491e09bd28162c767f514c06487a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-tr-en.tar.gz",
+            "name": "Turkish-English tiny",
+            "code": "tr-en-tiny"
+        },
+        {
+            "modelName": "Ukrainian-English tiny",
+            "shortName": "uk-en-tiny",
+            "type": "tiny",
+            "src": "Ukrainian",
+            "trg": "English",
+            "srcTags": {
+                "uk": "Ukrainian"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "7f4922c6f996102562dd73b506fad932d7103759282722276a95ba0470a5927a",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-uk-en.tar.gz",
+            "name": "Ukrainian-English tiny",
+            "code": "uk-en-tiny"
+        },
+        {
+            "modelName": "Vietnamese-English tiny",
+            "shortName": "vi-en-tiny",
+            "type": "tiny",
+            "src": "Vietnamese",
+            "trg": "English",
+            "srcTags": {
+                "vi": "Vietnamese"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "1e25013c682e4c37c599058d7dae54c5f5563ae1e3756bdff60c4c404a7906b8",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-vi-en.tar.gz",
+            "name": "Vietnamese-English tiny",
+            "code": "vi-en-tiny"
+        },
+        {
+            "modelName": "ZH-HANS-English base",
+            "shortName": "zh-Hans-en-base",
+            "type": "base",
+            "src": "ZH-HANS",
+            "trg": "English",
+            "srcTags": {
+                "zh-Hans": "ZH-HANS"
+            },
+            "trgTag": "en",
+            "repository": "Vadim3121 (GitHub)",
+            "version": 1,
+            "API": 1,
+            "checksum": "b3efa573f4d534b1b76d3c05a08eec33c8c0bb79b5a9b6a73023b7c53f6b8314",
+            "url": "https://github.com/vadim3121/firefox-translation-models/raw/main/ready_models/translatelocally-zh-Hans-en.tar.gz",
+            "name": "ZH-HANS-English base",
+            "code": "zh-Hans-en-base"
+        }
+    ]
+}
