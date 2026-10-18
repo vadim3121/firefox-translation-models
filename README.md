@@ -7,7 +7,7 @@
 1. Скачайте из папки `/models` любой архив с моделью в формате `.tar.gz`.
 2. В TranslateLocally откройте: **Edit** -> **Translator Settings** -> **Languages** -> **Import model**.
 
-## Как добавить в переводчик все модели сразу через репозиторий
+## Как добавить все модели сразу через репозиторий
 
 1. Скопируйте ссылку ниже:
    ```https://raw.githubusercontent.com/vadim3121/firefox-translation-models/refs/heads/main/models.json```
