@@ -15,7 +15,9 @@
    ```
 2. В TranslateLocally откройте: **Edit** -> **Translator Settings** -> **Repositories** -> **Import repository**.
 3. Вставьте скопированный адрес и обновите список моделей на вкладке **Languages**.
-
+<p align="center">
+  <img src="[https://github.com/твой_ник/твой_репозиторий/raw/main/имя_картинки.png](https://raw.githubusercontent.com/vadim3121/firefox-translation-models/main/import.png)" width="600" alt="TranslateLocally">
+</p>
 ## Как пересобрать модели самостоятельно
 
 1. Скачайте оригинальные папки с моделями (они должны содержать файлы `metadata.json`, `model.*.bin`, `vocab.*.spm`).
