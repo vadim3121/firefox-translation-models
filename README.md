@@ -1,3 +1,4 @@
+
 # Firefox Translation Models for TranslateLocally
 
 Репозиторий с готовыми моделями для TranslateLocally. Все архивы собраны из оригинальных моделей Mozilla Firefox (Bergamot).
@@ -15,9 +16,7 @@
    ```
 2. В TranslateLocally откройте: **Edit** -> **Translator Settings** -> **Repositories** -> **Import repository**.
 3. Вставьте скопированный адрес и обновите список моделей на вкладке **Languages**.
-<p align="center">
-  <img src="[https://github.com/твой_ник/твой_репозиторий/raw/main/имя_картинки.png](https://raw.githubusercontent.com/vadim3121/firefox-translation-models/main/import.png)" width="600" alt="TranslateLocally">
-</p>
+<img width="791" height="715" alt="import" src="https://github.com/user-attachments/assets/6a805990-d7f9-4934-a7a1-c959263cf143" />
 ## Как пересобрать модели самостоятельно
 
 1. Скачайте оригинальные папки с моделями (они должны содержать файлы `metadata.json`, `model.*.bin`, `vocab.*.spm`).
