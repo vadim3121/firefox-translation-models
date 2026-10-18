@@ -16,7 +16,8 @@
    ```
 2. В TranslateLocally откройте: **Edit** -> **Translator Settings** -> **Repositories** -> **Import repository**.
 3. Вставьте скопированный адрес и обновите список моделей на вкладке **Languages**.
-<img width="791" height="715" alt="import" src="https://github.com/user-attachments/assets/6a805990-d7f9-4934-a7a1-c959263cf143" />
+<img width="554" height="501" alt="import" src="https://github.com/user-attachments/assets/6a805990-d7f9-4934-a7a1-c959263cf143" />
+
 ## Как пересобрать модели самостоятельно
 
 1. Скачайте оригинальные папки с моделями (они должны содержать файлы `metadata.json`, `model.*.bin`, `vocab.*.spm`).
