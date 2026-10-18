@@ -37,159 +37,160 @@
 
 ### С английского языка (en-*)
 
-<table style="border: none; border-collapse: collapse; width: 100%;" border="0">
+<table style="border: none; border-collapse: collapse; width: 70%;" border="0">
 <tr style="border: none;">
-  <td style="border: none; width: 25%;">`en-ar` (Арабский)</td>
-  <td style="border: none; width: 25%;">`en-nl` (Нидерландский)</td>
-  <td style="border: none; width: 25%;">`en-fi` (Финский)</td>
-  <td style="border: none; width: 25%;">`en-kn` (Каннада)</td>
+  <td style="border: none; width: 25%;"><code>en-ar</code> (Арабский)</td>
+  <td style="border: none; width: 25%;"><code>en-nl</code> (Нидерландский)</td>
+  <td style="border: none; width: 25%;"><code>en-fi</code> (Финский)</td>
+  <td style="border: none; width: 25%;"><code>en-kn</code> (Каннада)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-az` (Азербайджанский)</td>
-  <td style="border: none;">`en-pl` (Польский)</td>
-  <td style="border: none;">`en-fr` (Французский)</td>
-  <td style="border: none;">`en-ko` (Корейский)</td>
+  <td style="border: none;"><code>en-az</code> (Азербайджанский)</td>
+  <td style="border: none;"><code>en-pl</code> (Польский)</td>
+  <td style="border: none;"><code>en-fr</code> (Французский)</td>
+  <td style="border: none;"><code>en-ko</code> (Корейский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-bg` (Болгарский)</td>
-  <td style="border: none;">`en-pt` (Португальский)</td>
-  <td style="border: none;">`en-gu` (Гуджарати)</td>
-  <td style="border: none;">`en-lt` (Литовский)</td>
+  <td style="border: none;"><code>en-bg</code> (Болгарский)</td>
+  <td style="border: none;"><code>en-pt</code> (Португальский)</td>
+  <td style="border: none;"><code>en-gu</code> (Гуджарати)</td>
+  <td style="border: none;"><code>en-lt</code> (Литовский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-bn` (Бенгальский)</td>
-  <td style="border: none;">`en-ro` (Румынский)</td>
-  <td style="border: none;">`en-he` (Иврит)</td>
-  <td style="border: none;">`en-lv` (Латышский)</td>
+  <td style="border: none;"><code>en-bn</code> (Бенгальский)</td>
+  <td style="border: none;"><code>en-ro</code> (Румынский)</td>
+  <td style="border: none;"><code>en-he</code> (Иврит)</td>
+  <td style="border: none;"><code>en-lv</code> (Латышский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-ca` (Каталанский)</td>
-  <td style="border: none;">`en-ru` (Русский)</td>
-  <td style="border: none;">`en-hi` (Хинди)</td>
-  <td style="border: none;">`en-ml` (Малаялам)</td>
+  <td style="border: none;"><code>en-ca</code> (Каталанский)</td>
+  <td style="border: none;"><code>en-ru</code> (Русский)</td>
+  <td style="border: none;"><code>en-hi</code> (Хинди)</td>
+  <td style="border: none;"><code>en-ml</code> (Малаялам)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-cs` (Чешский)</td>
-  <td style="border: none;">`en-sk` (Словацкий)</td>
-  <td style="border: none;">`en-hr` (Хорватский)</td>
-  <td style="border: none;">`en-ms` (Малайский)</td>
+  <td style="border: none;"><code>en-cs</code> (Чешский)</td>
+  <td style="border: none;"><code>en-sk</code> (Словацкий)</td>
+  <td style="border: none;"><code>en-hr</code> (Хорватский)</td>
+  <td style="border: none;"><code>en-ms</code> (Малайский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-da` (Датский)</td>
-  <td style="border: none;">`en-sl` (Словенский)</td>
-  <td style="border: none;">`en-hu` (Венгерский)</td>
-  <td style="border: none;">`en-sv` (Шведский)</td>
+  <td style="border: none;"><code>en-da</code> (Датский)</td>
+  <td style="border: none;"><code>en-sl</code> (Словенский)</td>
+  <td style="border: none;"><code>en-hu</code> (Венгерский)</td>
+  <td style="border: none;"><code>en-sv</code> (Шведский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-de` (Немецкий)</td>
-  <td style="border: none;">`en-sq` (Албанский)</td>
-  <td style="border: none;">`en-id` (Индонезийский)</td>
-  <td style="border: none;">`en-ta` (Тамильский)</td>
+  <td style="border: none;"><code>en-de</code> (Немецкий)</td>
+  <td style="border: none;"><code>en-sq`</code> (Албанский)</td>
+  <td style="border: none;"><code>en-id</code> (Индонезийский)</td>
+  <td style="border: none;"><code>en-ta</code> (Тамильский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-el` (Греческий)</td>
-  <td style="border: none;">`en-tr` (Турецкий)</td>
-  <td style="border: none;">`en-is` (Исландский)</td>
-  <td style="border: none;">`en-te` (Телугу)</td>
+  <td style="border: none;"><code>en-el</code> (Греческий)</td>
+  <td style="border: none;"><code>en-tr</code> (Турецкий)</td>
+  <td style="border: none;"><code>en-is</code> (Исландский)</td>
+  <td style="border: none;"><code>en-te</code> (Телугу)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-es` (Испанский)</td>
-  <td style="border: none;">`en-uk` (Украинский)</td>
-  <td style="border: none;">`en-it` (Итальянский)</td>
-  <td style="border: none;">`en-zh-Hans` (Китайский)</td>
+  <td style="border: none;"><code>en-es</code> (Испанский)</td>
+  <td style="border: none;"><code>en-uk</code> (Украинский)</td>
+  <td style="border: none;"><code>en-it</code> (Итальянский)</td>
+  <td style="border: none;"><code>en-zh-Hans</code> (Китайский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`en-et` (Эстонский)</td>
-  <td style="border: none;">`en-fa` (Персидский)</td>
-  <td style="border: none;">`en-ja` (Японский)</td>
+  <td style="border: none;"><code>en-et</code> (Эстонский)</td>
+  <td style="border: none;"><code>en-fa</code> (Персидский)</td>
+  <td style="border: none;"><code>en-ja</code> (Японский)</td>
   <td style="border: none;"></td>
 </tr>
 </table>
 
 ### На английский язык (*-en)
 
-<table style="border: none; border-collapse: collapse; width: 100%;" border="0">
+<table style="border: none; border-collapse: collapse; width: 70%;" border="0">
 <tr style="border: none;">
-  <td style="border: none; width: 25%;">`ar-en` (Арабский)</td>
-  <td style="border: none; width: 25%;">`el-en` (Греческий)</td>
-  <td style="border: none; width: 25%;">`it-en` (Итальянский)</td>
-  <td style="border: none; width: 25%;">`pl-en` (Польский)</td>
+  <td style="border: none; width: 25%;"><code>ar-en</code> (Арабский)</td>
+  <td style="border: none; width: 25%;"><code>el-en</code> (Греческий)</td>
+  <td style="border: none; width: 25%;"><code>it-en</code> (Итальянский)</td>
+  <td style="border: none; width: 25%;"><code>pl-en</code> (Польский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`az-en` (Азербайджанский)</td>
-  <td style="border: none;">`es-en` (Испанский)</td>
-  <td style="border: none;">`ja-en` (Японский)</td>
-  <td style="border: none;">`pt-en` (Португальский)</td>
+  <td style="border: none;"><code>az-en</code> (Азербайджанский)</td>
+  <td style="border: none;"><code>es-en</code> (Испанский)</td>
+  <td style="border: none;"><code>ja-en</code> (Японский)</td>
+  <td style="border: none;"><code>pt-en</code> (Португальский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`be-en` (Белорусский)</td>
-  <td style="border: none;">`et-en` (Эстонский)</td>
-  <td style="border: none;">`kn-en` (Каннада)</td>
-  <td style="border: none;">`ro-en` (Румынский)</td>
+  <td style="border: none;"><code>be-en</code> (Белорусский)</td>
+  <td style="border: none;"><code>et-en</code> (Эстонский)</td>
+  <td style="border: none;"><code>kn-en</code> (Каннада)</td>
+  <td style="border: none;"><code>ro-en</code> (Румынский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`bg-en` (Болгарский)</td>
-  <td style="border: none;">`fa-en` (Персидский)</td>
-  <td style="border: none;">`ko-en` (Корейский)</td>
-  <td style="border: none;">`ru-en` (Русский)</td>
+  <td style="border: none;"><code>bg-en</code> (Болгарский)</td>
+  <td style="border: none;"><code>fa-en`</code> (Персидский)</td>
+  <td style="border: none;"><code>ko-en</code> (Корейский)</td>
+  <td style="border: none;"><code>ru-en</code> (Русский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`bn-en` (Бенгальский)</td>
-  <td style="border: none;">`fi-en` (Финский)</td>
-  <td style="border: none;">`lt-en` (Литовский)</td>
-  <td style="border: none;">`sk-en` (Словацкий)</td>
+  <td style="border: none;"><code>bn-en</code> (Бенгальский)</td>
+  <td style="border: none;"><code>fi-en</code> (Финский)</td>
+  <td style="border: none;"><code>lt-en</code> (Литовский)</td>
+  <td style="border: none;"><code>sk-en`</code> (Словацкий)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`bs-en` (Боснийский)</td>
-  <td style="border: none;">`fr-en` (Французский)</td>
-  <td style="border: none;">`lv-en` (Латышский)</td>
-  <td style="border: none;">`sl-en` (Словенский)</td>
+  <td style="border: none;"><code>bs-en</code> (Боснийский)</td>
+  <td style="border: none;"><code>fr-en</code> (Французский)</td>
+  <td style="border: none;"><code>lv-en</code> (Латышский)</td>
+  <td style="border: none;"><code>sl-en</code> (Словенский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`ca-en` (Каталанский)</td>
-  <td style="border: none;">`gu-en` (Гуджарати)</td>
-  <td style="border: none;">`ml-en` (Малаялам)</td>
-  <td style="border: none;">`sq-en` (Албанский)</td>
+  <td style="border: none;"><code>ca-en</code> (Каталанский)</td>
+  <td style="border: none;"><code>gu-en</code> (Гуджарати)</td>
+  <td style="border: none;"><code>ml-en</code> (Малаялам)</td>
+  <td style="border: none;"><code>sq-en</code> (Албанский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`cs-en` (Чешский)</td>
-  <td style="border: none;">`he-en` (Иврит)</td>
-  <td style="border: none;">`ms-en` (Малайский)</td>
-  <td style="border: none;">`sr-en` (Сербский)</td>
+  <td style="border: none;"><code>cs-en</code> (Чешский)</td>
+  <td style="border: none;"><code>he-en</code> (Иврит)</td>
+  <td style="border: none;"><code>ms-en</code> (Малайский)</td>
+  <td style="border: none;"><code>sr-en</code> (Сербский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`da-en` (Датский)</td>
-  <td style="border: none;">`hi-en` (Хинди)</td>
-  <td style="border: none;">`mt-en` (Мальтийский)</td>
-  <td style="border: none;">`sv-en` (Шведский)</td>
+  <td style="border: none;"><code>da-en</code> (Датский)</td>
+  <td style="border: none;"><code>hi-en</code> (Хинди)</td>
+  <td style="border: none;"><code>mt-en</code> (Мальтийский)</td>
+  <td style="border: none;"><code>sv-en</code> (Шведский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`de-en` (Немецкий)</td>
-  <td style="border: none;">`hr-en` (Хорватский)</td>
-  <td style="border: none;">`nb-en` (Норв. букмол)</td>
-  <td style="border: none;">`ta-en` (Тамильский)</td>
+  <td style="border: none;"><code>de-en</code> (Немецкий)</td>
+  <td style="border: none;"><code>hr-en</code> (Хорватский)</td>
+  <td style="border: none;"><code>nb-en</code> (Норв. букмол)</td>
+  <td style="border: none;"><code>ta-en</code> (Тамильский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`hu-en` (Венгерский)</td>
-  <td style="border: none;">`id-en` (Индонезийский)</td>
-  <td style="border: none;">`nl-en` (Нидерландский)</td>
-  <td style="border: none;">`te-en` (Телугу)</td>
+  <td style="border: none;"><code>hu-en</code> (Венгерский)</td>
+  <td style="border: none;"><code>id-en</code> (Индонезийский)</td>
+  <td style="border: none;"><code>nl-en</code> (Нидерландский)</td>
+  <td style="border: none;"><code>te-en</code> (Телугу)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`is-en` (Исландский)</td>
-  <td style="border: none;">`nn-en` (Норв. нюнорск)</td>
-  <td style="border: none;">`tr-en` (Турецкий)</td>
-  <td style="border: none;">`uk-en` (Украинский)</td>
+  <td style="border: none;"><code>is-en</code> (Исландский)</td>
+  <td style="border: none;"><code>nn-en</code> (Норв. нюнорск)</td>
+  <td style="border: none;"><code>tr-en</code> (Турецкий)</td>
+  <td style="border: none;"><code>uk-en</code> (Украинский)</td>
 </tr>
 <tr style="border: none;">
-  <td style="border: none;">`vi-en` (Вьетнамский)</td>
-  <td style="border: none;">`zh-Hans-en` (Китайский)</td>
+  <td style="border: none;"><code>vi-en</code> (Вьетнамский)</td>
+  <td style="border: none;"><code>zh-Hans-en</code> (Китайский)</td>
   <td style="border: none;"></td>
   <td style="border: none;"></td>
 </tr>
 </table>
 
 </details>
+
 
 
 
