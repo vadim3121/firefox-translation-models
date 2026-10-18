@@ -10,7 +10,9 @@
 ## Как добавить все модели сразу через репозиторий
 
 1. Скопируйте ссылку ниже:
-   ```https://raw.githubusercontent.com/vadim3121/firefox-translation-models/refs/heads/main/models.json```
+   ```text
+   https://raw.githubusercontent.com/vadim3121/firefox-translation-models/refs/heads/main/models.json
+   ```
 2. В TranslateLocally откройте: **Edit** -> **Translator Settings** -> **Repositories** -> **Import repository**.
 3. Вставьте скопированный адрес и обновите список моделей на вкладке **Languages**.
 
